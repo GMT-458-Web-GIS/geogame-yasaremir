@@ -1,6 +1,6 @@
 
 GeoGame Design Explanation
-GeoGame is a browser-based, interactive game where players attempt to locate a randomly selected target location on a map. The game uses the OpenLayers library for its mapping component, allowing players to make selections by clicking on the map to guess the target location. The scoring system awards or deducts points based on how close the player’s guess is to the target.
+GeoGame is a browser-based, interactive game where players attempt to locate a randomly selected target location on a map.The primary goal in GeoGame is for the player to locate a random target location on the map. Players get points based on the proximity of their guess to the target. The closer the guess, the higher the points scored. The game uses the OpenLayers library for its mapping component, allowing players to make selections by clicking on the map to guess the target location. The scoring system awards or deducts points based on how close the player’s guess is to the target.
 
 1. Requirements and Frontend Layout
 Game Requirements
