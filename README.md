@@ -52,8 +52,7 @@ Allows dynamic interactivity:
 Detecting mouse pointer position (pointermove event).
 Mapping guesses and calculating distances between guessed and target locations.
 
-3. Chosen JavaScript Library
-Library: OpenLayers
+3. Chosen JavaScript Library: OpenLayers
 
 Functionality Used:
 Interactive Map:
