@@ -20,6 +20,8 @@ Messages (<p id="message">): Provides instructions or feedback.
 Hint (<p id="hint">): Offers directional guidance based on the user's guesses.
 Distance (<p id="distance">): Shows the distance between the guess and the target.
 Includes a restart button (<button id="restartButton">).
+
+
 2. Game Description and Geo-Component
 Description: This is a geographic knowledge and accuracy game focused on Ankara's districts. The user guesses district locations on a map to score points.
 
@@ -49,6 +51,7 @@ Utilizes OpenLayers to render a map of Ankara.
 Allows dynamic interactivity:
 Detecting mouse pointer position (pointermove event).
 Mapping guesses and calculating distances between guessed and target locations.
+
 3. Chosen JavaScript Library
 Library: OpenLayers
 
