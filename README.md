@@ -52,7 +52,8 @@ Less than 1 km: 1000 points
 10 km - 50 km: 250 points
 50 km - 100 km: 100 points
 More than 100 km: 50 points
-Hints
+
+Hints:
 After each round, the game provides directional hints to help the player refine their guesses in subsequent rounds. Examples of hints include suggestions like:
 “Move further north.”
 “Closer to the east.”
