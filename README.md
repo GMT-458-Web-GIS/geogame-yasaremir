@@ -1,14 +1,16 @@
 My webpage:https://gmt-458-web-gis.github.io/geogame-yasaremir/
+
 Purpose and Objective
 The main objective of the game is to challenge players to identify districts in Ankara based on given hints. The game promotes learning about Ankara’s geography while maintaining an element of fun through competitive scoring and time-bound rounds. The player’s ability to make accurate guesses is rewarded with points, encouraging repeated attempts to improve geographic knowledge and accuracy.
 
-Technologies Used
+Languages Used:
 1. HTML
 HTML is the foundation of the game’s structure. It organizes the game’s various sections and elements into an easily navigable layout, ensuring players have a clear understanding of the game interface. Key components include:
 
 Game Rules Section: Displays the instructions and rules at the start.
 Map and Information Panels: Dynamically updated sections show the interactive map and player statistics, such as score and round progress.
 Action Buttons: Used for starting and restarting the game with clear visual cues.
+
 2. CSS
 CSS provides the visual styling that makes the game both attractive and functional. The styling ensures a smooth user experience through:
 
@@ -16,6 +18,7 @@ Typography: The "Poppins" font from Google Fonts gives the interface a modern an
 Color Scheme: A light background  and contrasting text color  enhance readability.
 Responsive Design: The layout adjusts automatically to different screen sizes, ensuring the game is fully accessible on both desktop and mobile devices.
 Interactive Effects: Hover effects on buttons provide instant visual feedback, improving the overall user interaction.
+
 3. JavaScript
 JavaScript powers the game’s logic, interactivity, and functionality. It is responsible for:
 
@@ -73,6 +76,9 @@ Hints for refining future guesses.
 Incremental score updates displayed on the interface.
 Game Flow
 Start: Players begin by reading the rules and clicking the "Start" button.
+
 Rounds: Each round introduces a new target district. Players have 10 seconds to make a guess.
+
 Feedback: After every round, players see their score, distance from the target, and helpful hints.
+
 Game End: After five rounds, the final score is displayed. A “Restart” button allows players to try again.
