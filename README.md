@@ -1,4 +1,4 @@
-
+My webpage:https://gmt-458-web-gis.github.io/geogame-yasaremir/
 Purpose and Objective
 The main objective of the game is to challenge players to identify districts in Ankara based on given hints. The game promotes learning about Ankara’s geography while maintaining an element of fun through competitive scoring and time-bound rounds. The player’s ability to make accurate guesses is rewarded with points, encouraging repeated attempts to improve geographic knowledge and accuracy.
 
