@@ -34,10 +34,13 @@ Timer Mechanism: A 10-second countdown per round adds urgency and keeps players 
 Dynamic Updates: The game dynamically updates and displays scores, round progress, distance to the target, and hints as the game progresses.
 
 Gameplay Mechanics:
-Objective
+
+Objective:
+
 The goal is to guess the district’s location on the map with the highest accuracy possible, earning more points for closer guesses.
 
-Rules
+Rules:
+
 Each round lasts 10 seconds, during which the player must make a guess.
 The game consists of five rounds, and at the end of the game, the total score is displayed.
 Players make their guess by hovering over the map and pressing the 'X' key.
