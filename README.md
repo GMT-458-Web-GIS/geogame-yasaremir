@@ -23,13 +23,17 @@ Interactive Effects: Hover effects on buttons provide instant visual feedback, i
 JavaScript powers the game’s logic, interactivity, and functionality. It is responsible for:
 
 Map Integration: The OpenLayers library enables a dynamic and interactive map interface.
+
 Game Logic:
 Players navigate the map and make guesses by pressing the 'X' key while hovering over the map.
 Scores are calculated based on the proximity of the player’s guess to the correct district location.
 Five rounds are played in each game session, with a new target location presented for every round.
+
 Timer Mechanism: A 10-second countdown per round adds urgency and keeps players engaged.
+
 Dynamic Updates: The game dynamically updates and displays scores, round progress, distance to the target, and hints as the game progresses.
-Gameplay Mechanics
+
+Gameplay Mechanics:
 Objective
 The goal is to guess the district’s location on the map with the highest accuracy possible, earning more points for closer guesses.
 
