@@ -10,7 +10,7 @@ The **Ankara District Guessing Game** is an interactive web-based game designed 
 - **Scoring System**: Points awarded based on proximity to the target district, ranging from 50 to 1000 points.
 - **Hints & Feedback**: Real-time hints and distance feedback after each guess to guide players.
 - **Timer**: Each round is time-limited to 10 seconds, adding urgency and excitement.
-- **Responsive Design**: Fully accessible on both desktop and mobile devices.
+
 
 ---
 
